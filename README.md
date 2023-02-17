@@ -8,7 +8,7 @@
 
 # 👨‍💻 About me : 
 
-      My Discord account is : CLSendax#2431
+      My Discord account is : ClementIT#6699
       To contact me : clemdev@riseup.net
       QLS : https://discord.gg/KwJCazaYbD
 ```json
